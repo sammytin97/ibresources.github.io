@@ -52,7 +52,10 @@ Rearranged and completed by u/TemplarKnight98
 * IB QuestionBanks *
 ********************
 
-u/jbhul - Contributed QuestionBanks Version 4
+u/jbhul - Contributed IB QuestionBanks Version 4 as PDFs
+u/IBDocuments - Downloaded IB QuestionBanks Version 4 in HTML format
+@redstone.tehnik#7139 - Wrote a script to organize the IB QuestionBanks Version 4
+u/TemplarKnight98 - Created a Home page for IB QuestionBanks Version 4 and shared it 
 
 
 ******************************************
@@ -94,4 +97,5 @@ Mainly maintained by u/TemplarKnight98 with the help of u/batmansmaster.
 *********************
 
 Original layout and design by u/IBDocuments.
+u/TemplarKnight98 owns the ibdocuments.com domain name.
 Mainly maintained by u/IBDocuments with highly appreciated donations from generous candidates.
