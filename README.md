@@ -47,7 +47,7 @@ provided by IB. IB Guides include the syllabi of a subject including other impor
 
 <hr>
 
-<p>5) Thanks to a script written in Python by <a href="/u/batmansmaster">/u/batmansmaster</a> we have, organized by subject, all the IB Past Papers and Markschemes.</p>
+<p>5) Thanks to a script written in Python by <a href="/u/batmansmaster">https://www.reddit.com/user/batmansmaster</a> we have, organized by subject, all the IB Past Papers and Markschemes.</p>
 
 <hr>
 
