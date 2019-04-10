@@ -1,3 +1,5 @@
+![IB Resources Repository Logo](https://cdn.discordapp.com/attachments/491994322414338058/558233584637313044/resourcelogo.png "IB Resources Repository Logo")
+
 # A Guide to the IB Resources – What do they comprise, how to use them & other things about them
 
 If our site, IB Documents is down please use the EMERGENCY IB Resources link. Also, you will find resources in our IB Resources Repository GitHub Page. It’s important to mention that this last one is, again, the main IB Resources Link and you should always look at it first for link updates and status of pages. If ALL servers are currently down, please have patience because we're working on it. Uploading takes time; when new links are ready they'll be posted at the bottom of the GitHub page in the Emergency Links section.
