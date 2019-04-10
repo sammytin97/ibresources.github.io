@@ -1,4 +1,4 @@
-![IB Resources Repository Logo](https://cdn.discordapp.com/attachments/491994322414338058/558233584637313044/resourcelogo.png height=30px width=30px "IB Resources Repository Logo")
+![IB Resources Repository Logo](https://cdn.discordapp.com/attachments/365926756374413314/565404922934329374/resourcelogo.png "IB Resources Repository Logo")
 
 # A Guide to the IB Resources – What do they comprise, how to use them & other things about them
 
